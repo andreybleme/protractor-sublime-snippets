@@ -9,14 +9,23 @@ Below is a list of all snippets currently supported on this package and the
 triggers of each one. The **⇥** means the `TAB` key.
 
 ### Locators
-- `element(by.id())`: ebi⇥
-- `element(by.css())`: ebc⇥
-- `element(by.model())`: ebm⇥
-- `element(by.binding())`: ebb⇥
+- `element(by.id())`: elbi⇥
+- `element(by.css())`: elbc⇥
+- `element(by.model())`: elbm⇥
+- `element(by.binding())`: elbb⇥
 
-### Browser-level 
-- `browser.get`: brog⇥
+### Element manipulation
+- `element.clear`: elcl⇥
+- `element.click`: elclk⇥
+- `element.getAttribute`: elga⇥
+- `element.getText`: elgt⇥
+- `element.sendKeys`: elsk⇥
 
+### Browser level 
+- `browser.get`: brg⇥
+- `browser.getLocationAbsUrl`: brgla⇥
+- `browser.setLocation`: brsl⇥
+- `browser.getCurrentUrl`: brgc⇥ 
 
 
 ## Contributing
