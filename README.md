@@ -10,6 +10,7 @@ triggers of each one. The **⇥** means the `TAB` key.
 
 ### Locators
 - `element(by.id())`: elbi⇥
+- `element(by.name())`: elbn⇥
 - `element(by.css())`: elbc⇥
 - `element(by.model())`: elbm⇥
 - `element(by.binding())`: elbb⇥
@@ -25,7 +26,11 @@ triggers of each one. The **⇥** means the `TAB` key.
 - `browser.get`: brg⇥
 - `browser.getLocationAbsUrl`: brgla⇥
 - `browser.setLocation`: brsl⇥
-- `browser.getCurrentUrl`: brgc⇥ 
+- `browser.getCurrentUrl`: brgc⇥
+- `browser.addMockModule`: bram⇥ 
+- `browser.clearMockModules`: brcm⇥ 
+
+
 
 
 ## Contributing
