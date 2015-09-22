@@ -6,4 +6,5 @@ element(by.binding('${1:bindingname}'));
 	<tabTrigger>elbb</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.js</scope>
+	<description>element(by.binding)</description>
 </snippet>

@@ -6,5 +6,6 @@ browser.getLocationAbsUrl();
 	<tabTrigger>brgla</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.js</scope>
+	<description>browser.getLocationAbsUrl</description>
 </snippet>
 

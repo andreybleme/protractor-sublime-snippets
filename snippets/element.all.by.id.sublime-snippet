@@ -6,4 +6,5 @@ element.all(by.id('${1:myid}'));
 	<tabTrigger>eabi</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.js</scope>
+	<description>element.all(by.id)</description>
 </snippet>

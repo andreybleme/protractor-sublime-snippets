@@ -6,4 +6,5 @@ element(by.name('${1:elementname}'));
 	<tabTrigger>ebn</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.js</scope>
+	<description>element(by.name)</description>
 </snippet>

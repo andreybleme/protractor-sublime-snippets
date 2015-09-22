@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-${1:element}.getAttribute('${2:attribute}');
+element.all(by.repeater('${1:key} in ${2:repeater}'));
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>elga</tabTrigger>
+	<tabTrigger>eabr</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.js</scope>
-	<description>element.getAttribute</description>
+	<description>element.all(by.repeater)</description>
 </snippet>

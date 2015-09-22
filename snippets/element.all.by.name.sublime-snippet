@@ -6,4 +6,5 @@ element.all(by.name('${1:elementname}'));
 	<tabTrigger>eabn</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.js</scope>
+	<description>element.all(by.name)</description>
 </snippet>

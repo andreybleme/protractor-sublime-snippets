@@ -6,4 +6,5 @@ element(by.model('${1:modelname}'));
 	<tabTrigger>elbm</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.js</scope>
+	<description>element(by.model)</description>
 </snippet>

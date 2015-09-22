@@ -19,6 +19,7 @@ triggers of each one. The **⇥** means the `TAB` key.
 - `element.all by.css`: eabc⇥
 - `element.all by.model`: eabm⇥
 - `element.all by.binding`: eabb⇥
+- `element.all by.repeater`: eabr⇥
 
 ### Element manipulation
 - `element.clear`: elcl⇥
