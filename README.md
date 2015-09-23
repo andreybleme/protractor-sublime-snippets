@@ -50,7 +50,7 @@ and paste the command:
 
 `git clone git@github.com:andreybleme/protractor-sublime-snippets.git PSS`
 
-To **install manually**, download this archive into a folder called *PSS* in your Sublime Text Packages directory (Preferences -> Browse Packages).
+To **install manually**, [download the most recent release](https://github.com/andreybleme/protractor-sublime-snippets/releases)  into a folder called *PSS* in your Sublime Text Packages directory (Preferences -> Browse Packages).
 
 Make sure to restart Sublime Text when you're finished.
 
