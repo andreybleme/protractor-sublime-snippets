@@ -1,0 +1,28 @@
+{
+  "name": "js-protractor-sublime-snippets",
+  "version": "0.1",
+  "description": "Protractor snippets for Sublime Text",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreybleme/protractor-sublime-snippets.git"
+  },
+  "keywords": [
+    "javascript",
+    "sublime",
+    "text",
+    "snippets",
+    "protractor"
+  ],
+  "author": "Lucas Andrey",
+  "license": "MIT",
+  "releases": [
+    {
+      "sublime_text": "*",
+      "tags": true
+    }
+  ],
+  "bugs": {
+    "url": "hhttps://github.com/andreybleme/protractor-sublime-snippets/issues"
+  },
+  "homepage": "https://github.com/andreybleme/protractor-sublime-snippets"
+}
