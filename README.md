@@ -37,7 +37,22 @@ triggers of each one. The **⇥** means the `TAB` key.
 - `browser.clearMockModules`: brcm⇥ 
 
 
+## Install
+To install **via git**, navigate to your Sublime Text Packages directory in your terminal:
 
+OS X: `~/Library/Application\Support/Sublime\Text\2/Packages`
+
+Windows: `%APPDATA%/SublimeText2/Packages/`
+
+Linux: `~/.config/sublime-text-2/Packages/`
+
+and paste the command:
+
+`git clone git@github.com:andreybleme/protractor-sublime-snippets.git PSS`
+
+To **install manually**, download this archive into a folder called *PSS* in your Sublime Text Packages directory (Preferences -> Browse Packages).
+
+Make sure to restart Sublime Text when you're finished.
 
 ## Contributing
 
