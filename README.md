@@ -30,6 +30,7 @@ triggers of each one. The **⇥** means the `TAB` key.
 
 ### Browser level 
 - `browser.get`: brg⇥
+- `browser.pause`: brp⇥ 
 - `browser.getLocationAbsUrl`: brgla⇥
 - `browser.setLocation`: brsl⇥
 - `browser.getCurrentUrl`: brgc⇥
