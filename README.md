@@ -49,7 +49,7 @@ Linux: `~/.config/sublime-text-2/Packages/`
 
 and paste the command:
 
-`git clone git@github.com:andreybleme/protractor-sublime-snippets.git PSS`
+`git clone https://github.com/andreybleme/protractor-sublime-snippets PSS`
 
 To **install manually**, [download the most recent release](https://github.com/andreybleme/protractor-sublime-snippets/releases)  into a folder called *PSS* in your Sublime Text Packages directory (Preferences -> Browse Packages).
 
