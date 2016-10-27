@@ -63,3 +63,6 @@ Make sure to restart Sublime Text when you're finished.
 * Fork this repository
 * Remember testing the submitted snippet
 * Send a pull request with your new feature
+
+## Licence
+This package is licenced under the MIT Licence. Refer to file LICENCE
