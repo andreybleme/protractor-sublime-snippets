@@ -1,4 +1,7 @@
 # Protractor snippets
+
+[![license img](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Protractor is an end-to-end test framework for AngularJS applications. Protractor runs tests against your application running
 in a real browser, interacting with it as a user would.
 This package is for Protractor **version 2.2.0**.
