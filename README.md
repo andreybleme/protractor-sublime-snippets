@@ -62,4 +62,4 @@ Make sure to restart Sublime Text when you're finished.
 * Send a pull request with your new feature
 
 ## Licence
-This package is licenced under the MIT Licence. Refer to LICENCE.md
+This package is licenced under the MIT Licence. Refer to file LICENCE
