@@ -61,5 +61,5 @@ Make sure to restart Sublime Text when you're finished.
 * Remember testing the submitted snippet
 * Send a pull request with your new feature
 
-## License
-This package is licensed under the MIT Licence. Refer to LICENSE.md
+## Licence
+This package is licenced under the MIT Licence. Refer to LICENCE.md
